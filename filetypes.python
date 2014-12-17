@@ -1,15 +1,16 @@
 # For complete documentation of this file, please see Geany's main documentation
 [styling]
 # foreground;background;bold;italic
+
 default=0xffffff;0x001B33;false;false
 commentline=0x0088FF;0x001B33;false;true
-number=0xFF4444;0x001B33;false;false
+number=0xFF0044;0x001B33;false;false
 string=0xA18651;0x001B33;false;false
 character=0xA18651;0x001B33;false;false
 word=0xFF9D00;0x001B33;true;false
 triple=0x008020;0x001B33;false;false
 tripledouble=0x404000;0x001B33;false;false
-classname=0xB2A886;0x001B33;True;false
+classname=0xB2A886;0x001B33;true;false
 defname=0x7EB35B;0x001B33;true;false
 operator=0x98BAC5;0x001B33;true;false
 identifier=0xffffff;0x001B33;false;false
